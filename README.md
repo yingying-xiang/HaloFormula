@@ -1,5 +1,5 @@
 # HaloFormula
-#This software is currently compatible only with Windows.
+#This software is currently compatible only with Windows. Due to the large file size of the curated database （44G）, a demo database is available from the author upon reasonable request for academic research purposes.
 #HaloFormula is a standalone Windows application that requires no installation. Users import a calibrated .csv peak list, specify an output directory, and define optional elemental constraints (e.g., maximum Cl, N, or S). The software then generates and exports the assigned formulae, isotopic information (e.g., m/z, relative abundances, and spectral similarity indices), and molecular indices as .csv files.
 #Peak list format: The mass list consists of two columns only, with the first column reporting accurate m/z values (positive or negative ion mode) and the second column reporting the corresponding measured intensities.
 #Setting of parameters: Most formula assignment parameters can be left at their default settings. However, several sample-specific parameters should be adjusted depending on the sample characteristics. These include the ESI ionization mode (negative or positive) and the maximum allowed number of each element (for example, for non-chlorinated samples, the maximum number of Cl atoms should be set to zero).
