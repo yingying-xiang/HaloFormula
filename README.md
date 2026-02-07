@@ -1,4 +1,5 @@
 # HaloFormula
+#Due to a correction required for the Aromaticity Index, the corrected software will be released within one week.
 #This software is currently compatible only with Windows. Due to the large file size of the curated database (44 GB), a demonstration database is available upon reasonable request for academic research purposes.
 #HaloFormula is a standalone Windows application that requires no installation. Users import a calibrated .csv peak list, specify an output directory, and define optional elemental constraints (e.g., maximum Cl, N, or S). The software then generates and exports the assigned formulae, isotopic information (e.g., m/z, relative abundances, and spectral similarity indices), and molecular indices as .csv files.
 #Peak list format: The mass list consists of two columns only, with the first column reporting accurate m/z values (positive or negative ion mode) and the second column reporting the corresponding measured intensities.
