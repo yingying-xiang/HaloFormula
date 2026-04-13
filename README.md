@@ -1,7 +1,13 @@
 # HaloFormula
-#Due to a correction required for the Aromaticity Index, the corrected software will be released asap.
-#This software is currently compatible only with Windows. Due to the large file size of the curated database (44 GB), a demonstration database is available upon reasonable request for academic research purposes (Please contact the first author of the manuscript).
+
+#Due to a correction required for the Aromaticity Index, the corrected software will be released asap (Solved and updated on April 14, 2026).
+
+#This software is currently compatible only with Windows. Due to the large file size of the curated database (44 GB), a demonstration database is available upon reasonable request for academic research purposes (Please contact the first author of the manuscript). The authors are also preparing a demonstration data file, a demonstration database, and a detailed explanation of the output files.
+
 #HaloFormula is a standalone Windows application that requires no installation. Users import a calibrated .csv peak list, specify an output directory, and define optional elemental constraints (e.g., maximum Cl, N, or S). The software then generates and exports the assigned formulae, isotopic information (e.g., m/z, relative abundances, and spectral similarity indices), and molecular indices as .csv files.
+
 #Peak list format: The mass list consists of two columns only, with the first column reporting accurate m/z values (positive or negative ion mode) and the second column reporting the corresponding measured intensities.
+
 #Setting of parameters: Most formula assignment parameters can be left at their default settings. However, several sample-specific parameters should be adjusted depending on the sample characteristics. These include the ESI ionization mode (negative or positive) and the maximum allowed number of each element (for example, for non-chlorinated samples, the maximum number of Cl atoms should be set to zero).
+
 #HaloFormula allows adjustment of spectral similarity indices to accommodate instrument-specific performance. Stringent thresholds prioritize isotopic fidelity (e.g., cosine similarity = 0.95 and MSE = 0.05), whereas more relaxed thresholds enhance recovery of low-abundance features at the expense of assignment confidence (e.g., cosine similarity = 0.80 and MSE = 0.20). Thresholds should therefore be selected based on instrumental performance and specific study objectives.
