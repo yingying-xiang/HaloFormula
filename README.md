@@ -1,6 +1,8 @@
 # HaloFormula
 
-#Due to a correction required for the Aromaticity Index, the corrected software will be released asap (Solved and updated the corrected version to "Releases" on April 13, 2026).
+#Solved and updated the corrected version to "Releases" on April 13, 2026.
+
+#Due to a correction required for the Aromaticity Index, the corrected software will be released asap
 
 #This software is currently compatible only with Windows. Due to the large file size of the curated database (44 GB), a demonstration database is available upon reasonable request for academic research purposes (Please contact the first author of the manuscript). The authors are also preparing a demonstration data file, a demonstration database, and a detailed explanation of the output files.
 
