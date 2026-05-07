@@ -1,6 +1,6 @@
 # HaloFormula
 
-#Solved and updated the corrected version to "Releases" on April 13, 2026.
+#Solved and updated the corrected version on April 13, 2026.
 
 #Due to a correction required for the Aromaticity Index, the corrected software will be released asap
 
